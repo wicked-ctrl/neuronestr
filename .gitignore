@@ -1,0 +1,8 @@
+# Python artefacts
+__pycache__/
+*.py[cod]
+
+# Local env & secrets
+.env
+venv*/
+neuronestr.db

@@ -12,7 +12,7 @@ fonttools==4.58.4
 h11==0.16.0
 httpcore==1.0.9
 httptools==0.6.4
-httpx==0.26.0
+httpx==0.28.1
 idna==3.10
 iniconfig==2.1.0
 jiter==0.10.0
@@ -31,7 +31,7 @@ pyparsing==3.2.3
 pytest==8.4.1
 python-dateutil==2.9.0.post0
 python-dotenv==1.1.1
-python-telegram-bot==20.8
+python-telegram-bot @ git+https://github.com/python-telegram-bot/python-telegram-bot.git@661045f962e427b795229dbe87a14151ca8f5596
 pytz==2025.2
 PyYAML==6.0.2
 requests==2.32.4
